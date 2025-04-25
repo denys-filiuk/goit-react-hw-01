@@ -1,10 +1,5 @@
-ol,
-ul {
-  list-style: none;
-}
-
 .container {
-  width: 500px;
+  min-width: 550px;
   min-height: 500px;
   display: flex;
   flex-direction: column;
